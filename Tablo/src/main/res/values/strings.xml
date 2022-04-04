@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Табло</string>
+    <string name="pepsi" translatable="false">Пепси</string>
+    <string name="coca_colla" translatable="false">Кока-Кола</string>
+    <string name="reset" translatable="false">Сброс</string>
+</resources>
