@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">End</string>
-
+    <string name="app_name">calc1</string>
+    <string name="anr" />
 </resources>
