@@ -8,15 +8,7 @@ abstract class Animal{
     public abstract void makeNoise();
     public abstract void makeSleep();
     public abstract void makeEat();
-    public String getLocation(){
-        return location;
-    }
-    public  String getFood(){
-        return food;
-    }
-    public String getName(){
-        return name;
-    }
+   
 }
 class Dog extends Animal{
      String location  = "палате номер 1";
