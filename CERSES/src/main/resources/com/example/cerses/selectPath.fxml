@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cerses.HelloController">
+   <children>
+      <TextField fx:id="path" layoutX="215.0" layoutY="186.0" prefHeight="26.0" prefWidth="170.0" />
+      <Label layoutX="187.0" layoutY="91.0" />
+      <Label layoutX="241.0" layoutY="124.0" text="Введите путь к файлу" />
+      <Button fx:id="toList"  layoutX="251.0" layoutY="255.0" onAction="#WindowList"  mnemonicParsing="false" text="Редактировать" />
+   </children>
+</AnchorPane>
